@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather &amp; Earthquake Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather">Weather</string>
+    <string name="earthquakes">Earthquakes</string>
+    <string name="location">Location</string>
+    <string name="cairo_egypt">Cairo, Egypt</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_60">Humidity: 60%</string>
+    <string name="sunny">Sunny</string>
+    <string name="temperature">27°</string>
+    <string name="magnitude">6.2</string>
+    <string name="depth">Depth</string>
+    <string name="depth10">10 km</string>
+    <string name="datetime">DateTime</string>
+    <string name="realTime">2025-07-27 03:45 PM</string>
+    <string name="search_by_magnitude">Search by Min Magnitude</string>
+    <string name="number_of_earthquakes">Number of Earthquakes</string>
+    <string name="zero">00</string>
+    <string name="start_at">Start at:</string>
+    <string name="end_at">End at:</string>
+
+    <string-array name="date_filters">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Last Week</item>
+        <item>Last Month</item>
+        <item>Choose Date</item>
+    </string-array>
+
+</resources>
